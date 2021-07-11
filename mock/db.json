@@ -1,0 +1,70 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "code": "BTX",
+      "name": "비트코인(BTX)",
+      "totalPrice": 12391230000,
+      "currentPrice": 1020000,
+      "amount": 0.23,
+      "datetime": "2019/01/20 08:23:22"
+    },
+    {
+      "id": 2,
+      "code": "RXP",
+      "name": "리플(RXP)",
+      "totalPrice": 1230000,
+      "currentPrice": 20000,
+      "amount": 10,
+      "datetime": "2019/01/20 07:23:22"
+    },
+    {
+      "currentPrice": "216000",
+      "amount": "1",
+      "code": "ETH",
+      "name": "이더리움(ETH)",
+      "datetime": "2021/07/09 14:58:47",
+      "id": 3
+    },
+    {
+      "currentPrice": "2500000",
+      "amount": "2",
+      "code": "DOIT",
+      "name": "두잇코인(DOIT)",
+      "datetime": "2021/07/09 14:59:10",
+      "id": 4
+    },
+    {
+      "currentPrice": "4216000",
+      "amount": "1",
+      "code": "BTX",
+      "name": "비트코인(BTX)",
+      "datetime": "2021/07/09 15:00:45",
+      "id": 5
+    },
+    {
+      "currentPrice": "4216000",
+      "amount": "123",
+      "code": "BTX",
+      "name": "비트코인(BTX)",
+      "datetime": "2021/07/09 15:06:05",
+      "id": 6
+    },
+    {
+      "currentPrice": "216000",
+      "amount": "123",
+      "code": "ETH",
+      "name": "이더리움(ETH)",
+      "datetime": "2021/07/09 15:06:54",
+      "id": 7
+    },
+    {
+      "currentPrice": "25000",
+      "amount": "111",
+      "code": "DOIT",
+      "name": "두잇코인(DOIT)",
+      "datetime": "2021/07/09 15:07:05",
+      "id": 8
+    }
+  ]
+}
